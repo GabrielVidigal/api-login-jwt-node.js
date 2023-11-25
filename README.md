@@ -1,4 +1,4 @@
-# desafio de uma Calculadora que soma os números divisiveis por 3 e por 5
+# desafio de uma api de criação e login de usuario com JWT
 
 ## Como Rodar o Projeto
 
